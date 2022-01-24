@@ -29,11 +29,17 @@ HTTPie
 #2. Qual a versão instalada.
 
 Spring Tool Suite: 4.13.0
+
 Java: build 1.8.0_51-b16
+
 MySQL: 8.0.28
+
 Git: 2.34.1
+
 Node.JS: 16.13.2
+
 Postman: 9.10.0
+
 HTTPie: 2022.3.0
 
 #3. Sequência de passos para instalar cada ferramenta.
